@@ -14,14 +14,14 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="images/project-1.png" alt="Shiawasenoito Solo Mode" width="100%" />
+        <img src="images/project-1.jpg" alt="Shiawasenoito" width="100%" />
         <br />
-        <b>幸せの糸 · 单人模式</b>
+        <b>幸せの糸</b>
       </td>
       <td align="center" width="50%">
-        <img src="images/project-2.png" alt="Shiawasenoito Online Mode" width="100%" />
+        <img src="images/project-2.jpg" alt="Shiawasenoito" width="100%" />
         <br />
-        <b>幸せの糸 · 联机对战</b>
+        <b>幸せの糸</b>
       </td>
     </tr>
   </table>
@@ -64,8 +64,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zhzzhzzhzzhz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zhzzhzzhzzhz&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="profile/stats.svg" alt="GitHub Stats" width="49%" />
+  <img src="profile/top-langs.svg" alt="Top Languages" width="49%" />
 </p>
 
 <p align="center">
